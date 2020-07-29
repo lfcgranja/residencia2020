@@ -29,7 +29,7 @@ programa {
 	funcao escreveLinha(caracter linha, inteiro repeticao){
 		inteiro i
 		para(i=0;i<repeticao;i++){
-			escreva(linha)
+			escreva(linha, " ")
 		}
 		escreva("\n")
 	}
@@ -43,7 +43,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 258; 
+ * @POSICAO-CURSOR = 792; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

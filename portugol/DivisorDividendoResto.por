@@ -19,7 +19,7 @@ programa
 		resultado = dividendo
 		enquanto(resultado > 0)
 		{
-			resto = dividendo % divisor
+			resto = resultado % divisor
 			soma = soma + resto
 			resultado = resultado / divisor
 		}
@@ -31,9 +31,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 532; 
+ * @POSICAO-CURSOR = 371; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
+ * @SIMBOLOS-INSPECIONADOS = {resultado, 5, 10, 9}-{resto, 6, 10, 5}-{soma, 7, 10, 4};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
