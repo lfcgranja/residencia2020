@@ -1,7 +1,7 @@
 programa {
 	funcao inicio(){
 		inteiro i, numeroEscolhido, quantidade
-		const inteiro multiplicador = 10
+		inteiro multiplicador = 10
 		caracter linha
 
 		escreva("Digite o numero da tabuada: ");
@@ -43,7 +43,7 @@ programa {
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 792; 
+ * @POSICAO-CURSOR = 72; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
